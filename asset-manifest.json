@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/den-clinic/static/css/main.7acaea2f.css",
-    "main.js": "/den-clinic/static/js/main.fbfc524a.js",
+    "main.css": "/den-clinic/static/css/main.d05f5cee.css",
+    "main.js": "/den-clinic/static/js/main.50904e0f.js",
+    "static/media/titleImg.png": "/den-clinic/static/media/titleImg.bf1265c152e54fecfffb.png",
+    "static/media/instagram.svg": "/den-clinic/static/media/instagram.afbc399e07e295287e8d87d83903fbff.svg",
+    "static/media/phone.svg": "/den-clinic/static/media/phone.0c1a5e51b57d16676443a6bd181f342c.svg",
+    "static/media/telegram.svg": "/den-clinic/static/media/telegram.f9f4e7c24eddda122e5a35ca374f1203.svg",
     "index.html": "/den-clinic/index.html",
-    "main.7acaea2f.css.map": "/den-clinic/static/css/main.7acaea2f.css.map",
-    "main.fbfc524a.js.map": "/den-clinic/static/js/main.fbfc524a.js.map"
+    "static/media/license.svg": "/den-clinic/static/media/license.8966611594d754273e575e58779ce5fe.svg",
+    "static/media/youtube.svg": "/den-clinic/static/media/youtube.e52e7175c229e06438f2db1f2c73cc82.svg",
+    "static/media/arrow.svg": "/den-clinic/static/media/arrow.68abd9924d8a75f8f83841d3e488014b.svg",
+    "main.d05f5cee.css.map": "/den-clinic/static/css/main.d05f5cee.css.map",
+    "main.50904e0f.js.map": "/den-clinic/static/js/main.50904e0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.fbfc524a.js"
+    "static/css/main.d05f5cee.css",
+    "static/js/main.50904e0f.js"
   ]
 }
