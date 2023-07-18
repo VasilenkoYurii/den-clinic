@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/den-clinic/static/css/main.7acaea2f.css",
+    "main.js": "/den-clinic/static/js/main.fbfc524a.js",
+    "index.html": "/den-clinic/index.html",
+    "main.7acaea2f.css.map": "/den-clinic/static/css/main.7acaea2f.css.map",
+    "main.fbfc524a.js.map": "/den-clinic/static/js/main.fbfc524a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.fbfc524a.js"
+  ]
+}
